@@ -1,0 +1,1 @@
+- Function and Closure are 2 different things in Rust.
